@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Key.iml" filepath="$PROJECT_DIR$/.idea/Key.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeySetDemo/KeySetDemo.iml" filepath="$PROJECT_DIR$/KeySetDemo/KeySetDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeMapDemo/TreeMapDemo.iml" filepath="$PROJECT_DIR$/TreeMapDemo/TreeMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCount/WordCount.iml" filepath="$PROJECT_DIR$/WordCount/WordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw7-lwclement/hw7-lwclement.iml" filepath="$PROJECT_DIR$/hw7-lwclement/hw7-lwclement.iml" />
+    </modules>
+  </component>
+</project>

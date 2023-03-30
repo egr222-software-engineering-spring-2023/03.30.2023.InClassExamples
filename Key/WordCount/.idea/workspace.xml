@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="340c1f80-b58e-40d7-a6c6-69cba42385e6" name="Default Changelist" comment="Code along java files added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1pRvps7Yth9dLYv8JeI7sDkBlAK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lclement/Documents/Courses/EGR 222/2023.01 Spring/Weeks/Week 11 (03.28 - 03.30.2023)/03.30.2023.InClassExamples/Key/KeySetDemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lclement\Documents\Courses\EGR 222\2021.01 Spring\CodeAlongs\CA-16\CA-16-A" />
+      <recent name="C:\Users\lclement\Documents\Courses\EGR 222\2021.01 Spring\CodeAlongs\CA-14\CA-14-B\src" />
+      <recent name="C:\Users\lclement\Documents\Courses\EGR 222\2021.01 Spring\CodeAlongs\CA-8" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordCount">
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CA-12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordCount" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.equalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordCount" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" value="equalsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.hashCodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordCount" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" value="hashCodeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.negativeTranslateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordCount" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" value="negativeTranslateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="JUnit.All in CA-12" />
+      <item itemvalue="JUnit.PointTest.negativeTranslateTest" />
+      <item itemvalue="JUnit.PointTest.equalsTest" />
+      <item itemvalue="JUnit.PointTest.hashCodeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="JUnit.All in CA-12" />
+        <item itemvalue="JUnit.PointTest.hashCodeTest" />
+        <item itemvalue="JUnit.PointTest.equalsTest" />
+        <item itemvalue="JUnit.PointTest.negativeTranslateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340c1f80-b58e-40d7-a6c6-69cba42385e6" name="Default Changelist" comment="" />
+      <created>1615158904362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615158904362</updated>
+      <workItem from="1615158906049" duration="13000" />
+      <workItem from="1615158975037" duration="2401000" />
+      <workItem from="1615170762607" duration="1848000" />
+      <workItem from="1616041347407" duration="129000" />
+      <workItem from="1616041670951" duration="3997000" />
+      <workItem from="1616653998194" duration="46000" />
+      <workItem from="1616654066874" duration="1379000" />
+      <workItem from="1616655574672" duration="1532000" />
+      <workItem from="1616657411496" duration="23000" />
+      <workItem from="1616687087305" duration="10000" />
+      <workItem from="1617656465380" duration="44000" />
+      <workItem from="1617656538990" duration="2430000" />
+      <workItem from="1617659050120" duration="980000" />
+      <workItem from="1617723594649" duration="90000" />
+      <workItem from="1617852566142" duration="42000" />
+      <workItem from="1617853089844" duration="237000" />
+      <workItem from="1617853567019" duration="19000" />
+      <workItem from="1617897940794" duration="379000" />
+      <workItem from="1637040760810" duration="87000" />
+      <workItem from="1637244410150" duration="762000" />
+      <workItem from="1680136248480" duration="473000" />
+    </task>
+    <task id="LOCAL-00001" summary="After entering code">
+      <created>1615161352061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615161352061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code along java files added">
+      <created>1615172026604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615172026604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="After entering code" />
+    <MESSAGE value="Code along java files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code along java files added" />
+  </component>
+</project>
